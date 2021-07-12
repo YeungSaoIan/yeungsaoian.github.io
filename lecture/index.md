@@ -11,4 +11,6 @@
 
 [2. 物聯網概論與應用](https://yeungsaoian.github.io/lecture/IoT_introduction.html)
 
+***課程內容及對應之課時，會因應實際之情況作調整。***
+
 ---
